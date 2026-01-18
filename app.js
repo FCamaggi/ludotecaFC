@@ -23,7 +23,7 @@ function createGameCard(game) {
     card.className = 'game-card';
     
     card.innerHTML = `
-        <img src="${game.image}" alt="${game.title}" class="game-image" loading="lazy">
+        <div class="game-emoji">${game.emoji || '🎲'}</div>
         <div class="game-content">
             <h2 class="game-title">${game.title}</h2>
             <p class="game-description">${game.description}</p>
