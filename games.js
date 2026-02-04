@@ -75,6 +75,60 @@ const games = [
         category: "publico"
     },
     {
+        title: "Paren La Nave",
+        description: "Trivia espacial de estimación numérica. Responde preguntas intentando acercarte lo más posible al número correcto sin pasarte. 8 rondas de diversión galáctica en tiempo real con multijugador.",
+        emoji: "🚀",
+        link: "https://paren-la-nave.netlify.app/",
+        players: "2-8 jugadores",
+        duration: "20-30 min",
+        category: "publico"
+    },
+    {
+        title: "A Little Wordy",
+        description: "Descifra la palabra secreta de tu oponente usando pistas estratégicas (Vanilla o Spicy). Cada pista cuesta Berry Tokens que van a tu rival. Gana solo si adivinas teniendo MÁS tokens que él. Equilibra información vs recursos.",
+        emoji: "🔤",
+        link: "https://alittlewordy.netlify.app/",
+        players: "2 jugadores",
+        duration: "20-30 min",
+        category: "publico"
+    },
+    {
+        title: "Medium",
+        description: "Juego social de lectura mental. Tú y tu compañero reciben cartas con palabras. Piensen en la palabra que las conecta y ¡díganla al mismo tiempo! Acumulen tokens Mind Meld (7-6-5), Telepathy (4-3) y Psychic Link (2-1). Cuando sucede, se siente como magia.",
+        emoji: "🔮",
+        link: "https://mediumdigital.netlify.app/medi",
+        players: "2-6 jugadores",
+        duration: "30-45 min",
+        category: "publico"
+    },
+    {
+        title: "My Favourite Things",
+        description: "No conoces el valor de tus propias cartas. Otros escriben sus favoritos en tus cartas. Luego juegas bazas sin saber tu número, adivinando cuán favorito es cada ítem. El 💔 (lo que menos gusta) vence al #1 (favorito).",
+        emoji: "❤️",
+        link: "https://myfavouritethings.netlify.app/",
+        players: "3-6 jugadores",
+        duration: "30-40 min",
+        category: "publico"
+    },
+    {
+        title: "Wits & Wagers",
+        description: "Trivia de estimación y apuestas. Escribe tu respuesta numérica, luego colócala en el tablero. Apuesta fichas en la respuesta que creas más cercana (puede ser la tuya o la de otros). Gana apostando sabiamente, no sabiendo todo.",
+        emoji: "🎰",
+        link: "https://witsandwages.netlify.app/",
+        players: "4-20 jugadores",
+        duration: "25 min",
+        category: "publico"
+    },
+    {
+        title: "Green Team Wins",
+        description: "Juego de equipos cooperativo/competitivo potenciado por IA. Trabaja con tu equipo verde para superar desafíos mientras compites contra otros equipos. Estrategia, comunicación y toma de decisiones en tiempo real.",
+        emoji: "🟢",
+        link: "https://greenteamwins.netlify.app/",
+        players: "Variable",
+        duration: "Variable",
+        category: "publico"
+    },
+    {
         title: "Impostor",
         description: "¿Quién es el impostor? La mayoría conoce la palabra secreta, pero los impostores no. Cada jugador da pistas para demostrar que sabe la palabra, mientras los impostores intentan pasar desapercibidos. Descubre quién miente antes de que te descubran.",
         emoji: "🎭",
