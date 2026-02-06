@@ -129,6 +129,15 @@ const games = [
         category: "publico"
     },
     {
+        title: "Monikers",
+        description: "Adivina nombres en 3 rondas con reglas diferentes. Ronda 1: describe con cualquier palabra o gesto. Ronda 2: solo UNA palabra como pista. Ronda 3: solo gestos, sin hablar (Charades). 283 cartas de celebridades, personajes ficticios y figuras históricas.",
+        emoji: "🎭",
+        link: "https://monikersdigital.netlify.app/",
+        players: "4+ jugadores",
+        duration: "30-60 min",
+        category: "publico"
+    },
+    {
         title: "Impostor",
         description: "¿Quién es el impostor? La mayoría conoce la palabra secreta, pero los impostores no. Cada jugador da pistas para demostrar que sabe la palabra, mientras los impostores intentan pasar desapercibidos. Descubre quién miente antes de que te descubran.",
         emoji: "🎭",
